@@ -423,7 +423,14 @@ html[light-mode="dark"] .github-icon{
         y:3.5;
     }
   }
-  
+
+/* <!-- Facebook Animations --> */
+  /* Add this CSS to your stylesheet */
+.socialicon.facebook:hover i {
+  transform: rotate(360deg);
+  transition: transform 0.5s ease; /* Add a smooth transition effect */
+}
+
   
 
 /*
