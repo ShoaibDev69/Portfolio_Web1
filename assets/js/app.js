@@ -216,7 +216,7 @@ let footer = $(`
     </a>
 
     
-    <a class="social-button linkedin" href="https://www.linkedin.com/in/shoaib-khan-649599273/" target="_blank" >
+<a class="social-button linkedin" href="https://www.linkedin.com/in/shoaib-khan-649599273/" target="_blank" >
     <!-- svg code for linkedin icon -->
       <svg class="linkedin-icon-footer" xmlns="http://www.w3.org/2000/svg" width="35" viewBox="0 0 24 24" fill="#0e76a8"
         stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin">
@@ -224,20 +224,20 @@ let footer = $(`
         <rect x="2" y="9" width="4" height="12"></rect>
         <circle cx="4" cy="4" r="2"></circle>
       </svg>
-    </a>
+</a>
 
 
 
-             <a
-                class="socialicon facebook"
-                href="https://www.facebook.com/profile.php?id=100089078420163"
-                target="_blank"
-                rel="Shoaib Khan"
-              >
-                <i class="fab fa-facebook"></i>
-           </a>
+<a
+    class="socialicon facebook"
+    href="https://www.facebook.com/profile.php?id=100089078420163"
+    target="_blank"
+    rel="Shoaib Khan"
+>
+    <i class="fab fa-facebook"></i>
+</a>
 
-    <a class="social-button github" href="https://github.com/ShoaibDev69" target="_blank">
+<a class="social-button github" href="https://github.com/ShoaibDev69" target="_blank">
     <!-- SVG code for Github icon -->
     <svg class="github-icon-footer" width="45px" height="45px" viewBox="0 0 300 300">
         <!-- body -->
@@ -249,7 +249,7 @@ let footer = $(`
         <path id="arm" d="M125.2,213.4c-13.9,7.8-31.5,2.8-39.3-11.2c-4.3-7.7-12-12.8-20.7-13.8c-11.2,0-4.6,6.4,0,9.4
                                     c6,5.1,10.8,11.5,13.8,18.8c2.9,7.4,7.7,24.1,41.5,17.8" />
     </svg>
-    </a>
+</a>
 
 
     
