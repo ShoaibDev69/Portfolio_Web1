@@ -228,14 +228,14 @@ let footer = $(`
 
 
 
-              <a
+             <a
                 class="socialicon facebook"
                 href="https://www.facebook.com/profile.php?id=100089078420163"
                 target="_blank"
                 rel="Shoaib Khan"
               >
                 <i class="fab fa-facebook"></i>
-              </a>
+           </a>
 
     <a class="social-button github" href="https://github.com/ShoaibDev69" target="_blank">
     <!-- SVG code for Github icon -->
