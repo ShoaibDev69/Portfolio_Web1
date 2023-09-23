@@ -228,7 +228,9 @@ let footer = $(`
 
 
     <a class="social-button facebook" href="https://www.facebook.com/profile.php?id=100089078420163" target="_blank" >
-    <i class="fab fa-facebook"></i>
+    <div class="facebook-icon-container">
+        <i class="fab fa-facebook"></i>
+    </div>
     </a>
 
     <a class="social-button github" href="https://github.com/ShoaibDev69" target="_blank">
