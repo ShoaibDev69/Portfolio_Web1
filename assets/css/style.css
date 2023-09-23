@@ -688,7 +688,7 @@ Rotate Transition in foote Soical Icon
 
 /* instagram SVG micro animation */
 
-.instagram-icon-footer {
+.facebook-icon-footer {
   width: 70px;
   padding-right: 24px;
   padding-bottom: 8px;
@@ -731,13 +731,13 @@ Rotate Transition in foote Soical Icon
   background: #2b2a2A;
 }
 
-.rounded-social-buttons .social-button.instagram {
+.rounded-social-buttons .social-button.facebook {
   background: #2b2a2A;
   box-shadow: 10px 10px 5px rgb(0 0 0 / 20%);
 }
 
-.rounded-social-buttons .social-button.instagram:hover,
-.rounded-social-buttons .social-button.instagram:focus {
+.rounded-social-buttons .social-button.facebook:hover,
+.rounded-social-buttons .social-button.facebook:focus {
   color: #000;
   background: #2b2a2A;
 }
