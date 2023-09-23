@@ -631,52 +631,20 @@ Rotate Transition in foote Soical Icon
  INSTAGRAM MICROANIMATION
 -----------------------------
 */
-
-.st0 {
-  fill: none;
-  stroke: #EF4649;
-  stroke-width: 7;
-  stroke-linecap: round;
-  stroke-miterlimit: 10;
+/* Facebook icon animations */
+.facebook-icon-footer:hover i.fab.fa-facebook {
+  animation: facebook-icon-pulse 1s linear infinite;
 }
 
-.instagram-icon-footer:hover #littleCircle {
-  stroke-dasharray: 150;
-}
-
-.instagram #shutter {
-  display: none;
-}
-
-.instagram-icon-footer:hover #shutter {
-  display: block;
-  animation: shutter 1s linear infinite;
-}
-
-.instagram-icon-footer:hover #lens {
-  fill: #EF4649;
-  animation: lens 1.5s linear infinite;
-}
-
-@keyframes shutter {
-  0%,
+@keyframes facebook-icon-pulse {
+  0% {
+      transform: scale(1);
+  }
   50% {
-      stroke-dashoffset: 150;
-  }
-  75% {
-      fill: #EF4649;
-      stroke-dashoffset: 0;
-      stroke-width: 11;
-  }
-}
-
-@keyframes lens {
-  0%,
-  75% {
-      opacity: 0;
+      transform: scale(1.1);
   }
   100% {
-      opacity: 1;
+      transform: scale(1);
   }
 }
 
