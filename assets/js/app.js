@@ -227,7 +227,7 @@ let footer = $(`
 
 
 
-    <a class="social-button facebook" href="https://www.facebook.com/profile.php?id=100089078420163" target="_blank" >
+    <a class="socialicon facebook" href="https://www.facebook.com/profile.php?id=100089078420163" target="_blank" >
     <i class="fab fa-facebook"></i>
     </a>
 
