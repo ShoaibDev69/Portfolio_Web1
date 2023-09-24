@@ -666,6 +666,18 @@ blockquote {
     padding: 1px;
   }
                                                   /* Second  */
+                                                  .timelineHeading3 {
+                                                    font-size: 1.5rem; /* College ka naam ka font size */
+                                                    font-weight: bold; /* College ka naam ka font weight */
+                                                    color: #4e00bb; /* College ka naam ka text color */
+                                                  }
+                                                  
+                                                  .date2 {
+                                                    font-size: 1rem; /* Date ka font size */
+                                                    color: #777; /* Date ka text color */
+                                                    margin-top: 5px; /* Date aur college ka naam ke beech ki spacing */
+                                                  }
+                                                  
   .timelineHeading2{
     font-size: 94%;
   }
