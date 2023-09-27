@@ -6,7 +6,7 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "Data Science",
-    cardImage: "assets/images/education-page/coursera2.svg",
+    cardImage: "assets/images/education-page/Alchemy.svg",
     moocLink: "https://www.coursera.org/browse/data-science",
   },
   {
