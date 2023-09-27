@@ -11,12 +11,12 @@ const moocscards = [
   },
   {
     title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
+    cardImage: "assets/images/education-page/Alchemy.svg",
     moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
   },
   {
     title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
+    cardImage: "assets/images/education-page/Alchemy.svg",
     moocLink: "https://www.coursera.org/learn/machine-learning",
   },
   {
