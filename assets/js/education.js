@@ -19,10 +19,11 @@ const moocscards = [
     cardImage: "assets/images/education-page/Alchemy.svg",
     moocLink: "https://university.alchemy.com/overview/ethereum",
   },
+  // FreeCodeCamp
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "Responsive Web Design",
+    cardImage: "assets/images/education-page/FreeCodeCamp.svg",
+    moocLink: "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
   },
   {
     title: "Introduction to CSS 3",
