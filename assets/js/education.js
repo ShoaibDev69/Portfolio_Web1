@@ -10,14 +10,14 @@ const moocscards = [
     moocLink: "https://university.alchemy.com/overview/solidity",
   },
   {
-    title: "Cryptography",
+    title: "JavaScript",
     cardImage: "assets/images/education-page/Alchemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    moocLink: "https://university.alchemy.com/overview/js",
   },
   {
-    title: "Machine Learning",
+    title: "Ethereum Developer Bootcamp",
     cardImage: "assets/images/education-page/Alchemy.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    moocLink: "https://university.alchemy.com/overview/ethereum",
   },
   {
     title: "Introduction to HTML 5",
