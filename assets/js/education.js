@@ -5,9 +5,9 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
+    title: "Solidity",
     cardImage: "assets/images/education-page/Alchemy.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    moocLink: "https://university.alchemy.com/overview/solidity",
   },
   {
     title: "Cryptography",
