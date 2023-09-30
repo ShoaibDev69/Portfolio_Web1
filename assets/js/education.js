@@ -42,7 +42,7 @@ const moocscards = [
   },
   {
     title: "Intro to React",
-    cardImage: "assets/images/education-page/FreeCodeCamp.svg",
+    cardImage: "assets/images/education-page/dacade.jpg",
     moocLink: "https://www.edx.org/learn/reactjs",
   },
   {
