@@ -54,9 +54,9 @@ const moocscards = [
     moocLink: "https://dacade.org/communities/ai",
   },
   {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
+    title: "Full Stack Web3 Development with JavaScript",
+    cardImage: "assets/images/education-page/YouTube.svg",
+    moocLink: "https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=46s&pp=ygUTYmxvY2tjaGFpbiBCb290Y2FtcA%3D%3D",
   },
   {
     title: "XML-AJAX",
