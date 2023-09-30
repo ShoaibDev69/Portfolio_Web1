@@ -59,9 +59,9 @@ const moocscards = [
     moocLink: "https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=46s&pp=ygUTYmxvY2tjaGFpbiBCb290Y2FtcA%3D%3D",
   },
   {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
+    title: "Blockchain Developer, Solidity, Foundry Full Course 2023",
+    cardImage: "assets/images/education-page/YouTube.svg",
+    moocLink: "https://youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42&si=3pFKDVbIbz_E93ol",
   },
   {
     title: "Data Structures & Algorithms",
