@@ -31,9 +31,9 @@ const moocscards = [
     moocLink: "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
   },
   {
-    title: "Javascript",
+    title: "Front End Development Libraries",
     cardImage: "assets/images/education-page/FreeCodeCamp.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
+    moocLink: "https://www.freecodecamp.org/learn/front-end-development-libraries/",
   },
   {
     title: "Bootstrap 4",
