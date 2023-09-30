@@ -27,22 +27,22 @@ const moocscards = [
   },
   {
     title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    cardImage: "assets/images/education-page/FreeCodeCamp.svg",
+    moocLink: "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
   },
   {
     title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
+    cardImage: "assets/images/education-page/FreeCodeCamp.svg",
     moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
   },
   {
     title: "Bootstrap 4",
-    cardImage: "assets/images/education-page/udemy.svg",
+    cardImage: "assets/images/education-page/FreeCodeCamp.svg",
     moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
   },
   {
     title: "Intro to React",
-    cardImage: "assets/images/education-page/edx.svg",
+    cardImage: "assets/images/education-page/FreeCodeCamp.svg",
     moocLink: "https://www.edx.org/learn/reactjs",
   },
   {
