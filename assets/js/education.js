@@ -26,7 +26,7 @@ const moocscards = [
     moocLink: "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
   },
   {
-    title: "Introduction to CSS 3",
+    title: "JavaScript Algorithms and Data Structures",
     cardImage: "assets/images/education-page/FreeCodeCamp.svg",
     moocLink: "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
   },
