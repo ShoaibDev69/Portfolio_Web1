@@ -59,7 +59,7 @@ const moocscards = [
     moocLink: "https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=46s&pp=ygUTYmxvY2tjaGFpbiBCb290Y2FtcA%3D%3D",
   },
   {
-    title: "Blockchain Developer, Solidity, Foundry Full Course 2023",
+    title: "Blockchain Developer, Solidity, Foundry Full Course",
     cardImage: "assets/images/education-page/YouTube.svg",
     moocLink: "https://youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42&si=3pFKDVbIbz_E93ol",
   },
