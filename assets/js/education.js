@@ -65,7 +65,7 @@ const moocscards = [
   },
   {
     title: "DeFi",
-    cardImage: "assets/images/education-page/udacity.svg",
+    cardImage: "assets/images/education-page/YouTube.svg",
     moocLink: "https://youtube.com/playlist?list=PLgPmWS2dQHW9_Mo_5OC7Eyqi1FwKOJlb9&si=_QzhUsppRGM2SgPq",
   },
 ];
