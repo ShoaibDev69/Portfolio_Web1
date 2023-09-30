@@ -28,17 +28,20 @@ const moocscards = [
   {
     title: "JavaScript Algorithms and Data Structures",
     cardImage: "assets/images/education-page/FreeCodeCamp.svg",
-    moocLink: "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+    moocLink:
+      "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
   },
   {
     title: "Front End Development Libraries",
     cardImage: "assets/images/education-page/FreeCodeCamp.svg",
-    moocLink: "https://www.freecodecamp.org/learn/front-end-development-libraries/",
+    moocLink:
+      "https://www.freecodecamp.org/learn/front-end-development-libraries/",
   },
   {
     title: "Back End Development and APIs",
     cardImage: "assets/images/education-page/FreeCodeCamp.svg",
-    moocLink: "https://www.freecodecamp.org/learn/back-end-development-and-apis/",
+    moocLink:
+      "https://www.freecodecamp.org/learn/back-end-development-and-apis/",
   },
   {
     title: "Blockchain Theory",
@@ -46,10 +49,9 @@ const moocscards = [
     moocLink: "https://dacade.org/communities/blockchain",
   },
   {
-    title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+    title: "Artificial Intelligence",
+    cardImage: "assets/images/education-page/dacade.svg",
+    moocLink: "https://dacade.org/communities/ai",
   },
   {
     title: "NodeJS, Express and MongoDB",
