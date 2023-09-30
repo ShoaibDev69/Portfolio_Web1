@@ -41,9 +41,9 @@ const moocscards = [
     moocLink: "https://www.freecodecamp.org/learn/back-end-development-and-apis/",
   },
   {
-    title: "Intro to React",
+    title: "Blockchain Theory",
     cardImage: "assets/images/education-page/dacade.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
+    moocLink: "https://dacade.org/communities/blockchain",
   },
   {
     title: "Intro to React Native",
