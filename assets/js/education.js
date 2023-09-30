@@ -64,10 +64,9 @@ const moocscards = [
     moocLink: "https://youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42&si=3pFKDVbIbz_E93ol",
   },
   {
-    title: "Data Structures & Algorithms",
+    title: "DeFi",
     cardImage: "assets/images/education-page/udacity.svg",
-    moocLink:
-      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+    moocLink: "https://youtube.com/playlist?list=PLgPmWS2dQHW9_Mo_5OC7Eyqi1FwKOJlb9&si=_QzhUsppRGM2SgPq",
   },
 ];
 
