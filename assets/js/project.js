@@ -22,12 +22,12 @@ const projects = [
     Githublink: "https://github.com/ShoaibDev69/MetaverseHorizon",
   },
   {
-    title: "Flappy Bird",
-    cardImage: "assets/images/project-page/flappybird.png",
-    description: "Flappy bird game built using React.js",
+    title: "Pomodoro Timer",
+    cardImage: "https://vuejsexamples.com/content/images/2019/05/Pomodoro-Timer-1.gif",
+    description: "Pomodoro Timer",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://pomodoro-timer-two-rho.vercel.app/",
+    Githublink: "https://github.com/ShoaibDev69/Pomodoro-Timer",
   },
   {
     title: "Exercise Tracker",
