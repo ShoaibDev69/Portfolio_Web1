@@ -7,11 +7,11 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "CoinReach",
-    cardImage: "assets/images/project-page/quiz.jpg",
-    description: "A quiz app built using basic react.",
+    cardImage: "https://miro.medium.com/v2/resize:fit:1200/1*nrrEILE2tztOrMlTOaeDtA.gif",
+    description: "A Crpto Sending Project",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://coin-reach-project.vercel.app/",
+    Githublink: "https://github.com/ShoaibDev69/CoinReach_Project",
   },
   {
     title: "Metaverse Horizon",
