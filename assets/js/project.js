@@ -15,7 +15,8 @@ const projects = [
   },
   {
     title: "Metaverse Horizon",
-    cardImage: "https://i.gifer.com/origin/68/68395474667ae256ef34e61799344f6b.gif",
+    // cardImage: "https://i.gifer.com/origin/68/68395474667ae256ef34e61799344f6b.gif",
+    cardImage: "https://i.pinimg.com/originals/0c/66/4a/0c664ad974914d5f19dae35bd5cb3808.gif",
     description: "A Metaverse Website",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://metaverse-horizon.vercel.app/",
