@@ -9,7 +9,7 @@ const projects = [
     title: "CoinReach",
     cardImage: "assets/images/project-page/CoinReach.png",
     description: "A Crpto Sending Project",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    // tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://coin-reach-project.vercel.app/",
     Githublink: "https://github.com/ShoaibDev69/CoinReach_Project",
   },
