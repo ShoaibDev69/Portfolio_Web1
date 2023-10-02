@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "Pomodoro Timer",
-    cardImage: "assets/images/project-page/Pomodoro Timer.png",
+    cardImage: "assets/images/project-page/Pomodoro.png",
     description: "Pomodoro Timer",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://pomodoro-timer-two-rho.vercel.app/",
