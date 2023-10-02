@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "CoinReach",
-    cardImage: "https://miro.medium.com/v2/resize:fit:1200/1*nrrEILE2tztOrMlTOaeDtA.gif",
+    cardImage: "assets/images/project-page/CoinReach.png",
     description: "A Crpto Sending Project",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://coin-reach-project.vercel.app/",
