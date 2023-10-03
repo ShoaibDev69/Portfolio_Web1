@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "Metaverse Horizon",
-    cardImage: "assets/images/project-page/Metaverse.png",
+    cardImage: "assets/images/project-page/metaverse.gif",
     description: "A Metaverse Website",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://metaverse-horizon.vercel.app/",
@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "Pomodoro Timer",
-    cardImage: "assets/images/project-page/Pomodoro.png",
+    cardImage: "assets/images/project-page/pomodoro.gif",
     description: "Pomodoro Timer",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://pomodoro-timer-two-rho.vercel.app/",
