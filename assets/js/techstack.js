@@ -57,6 +57,11 @@ const techStack = [
   {
     langImage:"assets/images/techstack-page/c.png",
     langName:"C++",
+    langDesc:"<li>C++ is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/c.png",
+    langName:"SOlidity",
     langDesc:"<li>C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system</li>"
   },
 ];
