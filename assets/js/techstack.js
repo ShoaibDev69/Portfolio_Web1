@@ -64,6 +64,11 @@ const techStack = [
     langName:"Solidity",
     langDesc:"<li>Solidity is a high level language, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system</li>"
   },
+  {
+    langImage:"assets/images/techstack-page/c.png",
+    langName:"Rust",
+    langDesc:"<li>Rust is high level, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system</li>"
+  },
 ];
 
 const displayTechStacksCards = () => {
