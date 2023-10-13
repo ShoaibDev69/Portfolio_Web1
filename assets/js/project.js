@@ -17,7 +17,7 @@ const projects = [
     title: "Metaverse Horizon",
     cardImage: "assets/images/project-page/Metaverse.png",
     description: "A Metaverse Website",
-    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    // tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://metaverse-horizon.vercel.app/",
     Githublink: "https://github.com/ShoaibDev69/MetaverseHorizon",
   },
