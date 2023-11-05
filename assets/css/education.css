@@ -267,42 +267,52 @@ p {
 }
 
 #leaf12 {
-  -webkit-animation: shake-bottom 9s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite both;
-  animation: shake-bottom 9s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite both;
+  -webkit-animation: shake-bottom 9s cubic-bezier(0.455, 0.03, 0.515, 0.955)
+    infinite both;
+  animation: shake-bottom 9s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite
+    both;
   transform-box: fill-box;
 }
 
 #leaf13 {
-  -webkit-animation: shake-bottom 8s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite both;
-  animation: shake-bottom 8s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite both;
+  -webkit-animation: shake-bottom 8s cubic-bezier(0.455, 0.03, 0.515, 0.955)
+    infinite both;
+  animation: shake-bottom 8s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite
+    both;
   transform-box: fill-box;
 }
 
 #lef14 {
-  -webkit-animation: shake-bottom 7.5s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite both;
-  animation: shake-bottom 7.5s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite both;
+  -webkit-animation: shake-bottom 7.5s cubic-bezier(0.455, 0.03, 0.515, 0.955)
+    infinite both;
+  animation: shake-bottom 7.5s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite
+    both;
   transform-box: fill-box;
 }
 
 #leaf15 {
-  -webkit-animation: shake-bottom 7s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite both;
-  animation: shake-bottom 7s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite both;
+  -webkit-animation: shake-bottom 7s cubic-bezier(0.455, 0.03, 0.515, 0.955)
+    infinite both;
+  animation: shake-bottom 7s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite
+    both;
   transform-box: fill-box;
 }
 
 #leaf16 {
-  -webkit-animation: shake-bottom 6.5s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite both;
-  animation: shake-bottom 6.5s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite both;
+  -webkit-animation: shake-bottom 6.5s cubic-bezier(0.455, 0.03, 0.515, 0.955)
+    infinite both;
+  animation: shake-bottom 6.5s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite
+    both;
   transform-box: fill-box;
 }
 
 #leaf17 {
-  animation: shake-bottom 6s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite both;
+  animation: shake-bottom 6s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite
+    both;
   transform-box: fill-box;
 }
 
 @-webkit-keyframes shake-bottom {
-
   0%,
   100% {
     -webkit-transform: rotate(0deg);
@@ -342,7 +352,6 @@ p {
 }
 
 @keyframes shake-bottom {
-
   0%,
   100% {
     -webkit-transform: rotate(0deg);
@@ -406,8 +415,8 @@ h1 {
 }
 
 header {
-  background: #3F51B5;
-  color: #FFFFFF;
+  background: #3f51b5;
+  color: #ffffff;
   padding: 150px 0;
 }
 
@@ -427,7 +436,7 @@ header p {
 /* Draws line */
 .timeline::before {
   content: "";
-  background: #C5CAE9;
+  background: #c5cae9;
   width: 5px;
   height: 95%;
   position: absolute;
@@ -511,7 +520,7 @@ header p {
 .timeline-img {
   width: 30px;
   height: 30px;
-  background: #3F51B5;
+  background: #3f51b5;
   border-radius: 50%;
   position: absolute;
   left: 50%;
@@ -520,8 +529,8 @@ header p {
 }
 
 .bnt-more {
-  background: #3F51B5;
-  color: #FFFFFF;
+  background: #3f51b5;
+  color: #ffffff;
   padding: 8px 20px;
   text-transform: uppercase;
   font-size: 14px;
@@ -537,7 +546,7 @@ header p {
 .bnt-mor:active,
 .bnt-mor:focus {
   background: #32408f;
-  color: #FFFFFF;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -557,7 +566,6 @@ header p {
   /*background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://picsum.photos/1000/800/?random") center center no-repeat;*/
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
   background-size: cover;
-
 }
 
 .timeline-img-header {
@@ -565,7 +573,6 @@ header p {
   position: relative;
   margin-bottom: 20px;
   /*background-image: url('assets/images/education-page/edTimeline1.png');*/
-
 }
 
 .timeline-img-header h2 {
@@ -579,14 +586,14 @@ header p {
 blockquote {
   margin-top: 30px;
   color: #757575;
-  border-left-color: #3F51B5;
+  border-left-color: #3f51b5;
   padding: 0 20px;
 }
 
 .date {
-  background: #FF4081;
+  background: #ff4081;
   display: inline-block;
-  color: #FFFFFF;
+  color: #ffffff;
   padding: 10px;
   position: absolute;
   top: 0;
@@ -595,7 +602,6 @@ blockquote {
 
 .alignment {
   padding-left: 20px;
-
 }
 
 /* Media Query  header/footer */
@@ -687,19 +693,19 @@ blockquote {
   }
 }
 
-@media only screen and (max-width:2381px) {
+@media only screen and (max-width: 2381px) {
   .text {
     margin-top: 2rem;
   }
 }
 
-@media only screen and (max-width:1340px) {
+@media only screen and (max-width: 1340px) {
   .text {
     margin-top: 4rem;
   }
 }
 
-@media(max-width:1200px) {
+@media (max-width: 1200px) {
   .timelineHeading {
     font-size: 152%;
   }
@@ -715,7 +721,6 @@ blockquote {
 }
 
 @media (max-width: 991px) {
-
   .timelineHeading {
     font-size: 1.8ch;
     font-weight: bold;
@@ -762,7 +767,6 @@ blockquote {
   }
 }
 
-
 @media screen and (max-width: 768px) {
   .timeline::before {
     left: 50px;
@@ -803,25 +807,25 @@ blockquote {
   }
 }
 
-@media (max-width:502px) {
+@media (max-width: 502px) {
   .timelineHeading2 {
     font-size: 120%;
   }
 }
 
-@media (max-width:582px) {
+@media (max-width: 582px) {
   .timelineHeading2 {
     font-size: 117%;
   }
 }
 
-@media (max-width:458px) {
+@media (max-width: 458px) {
   .timelineHeading2 {
     font-size: 106%;
   }
 }
 
-@media (max-width:453px) {
+@media (max-width: 453px) {
   .timelineHeading3 {
     font-size: 142%;
     font-weight: bold;
@@ -832,14 +836,14 @@ blockquote {
   }
 }
 
-@media (max-width:440px) {
+@media (max-width: 440px) {
   .timelineHeading3 {
     font-size: 132%;
     font-weight: bold;
   }
 }
 
-@media (max-width:432px) {
+@media (max-width: 432px) {
   .timeline-content {
     font-size: 84%;
   }
@@ -849,13 +853,13 @@ blockquote {
   }
 }
 
-@media(max-width:378px) {
+@media (max-width: 378px) {
   .container {
     font-size: 80%;
   }
 }
 
-@media(max-width:346px) {
+@media (max-width: 346px) {
   .container {
     font-size: 77%;
   }
@@ -873,7 +877,7 @@ blockquote {
   }
 }
 
-@media(max-width:321px) {
+@media (max-width: 321px) {
   .container {
     font-size: 72%;
   }
@@ -891,7 +895,7 @@ blockquote {
   }
 }
 
-@media(max-width:309px) {
+@media (max-width: 309px) {
   .container {
     font-size: 70%;
   }
@@ -909,7 +913,7 @@ blockquote {
   }
 }
 
-@media(max-width:292px) {
+@media (max-width: 292px) {
   .container {
     font-size: 65%;
   }
@@ -927,7 +931,7 @@ blockquote {
   }
 }
 
-@media(max-width:281px) {
+@media (max-width: 281px) {
   .container {
     font-size: 60%;
   }
@@ -945,7 +949,7 @@ blockquote {
   }
 }
 
-@media(max-width:273px) {
+@media (max-width: 273px) {
   .container {
     font-size: 50%;
   }
