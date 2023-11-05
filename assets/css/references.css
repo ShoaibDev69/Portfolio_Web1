@@ -299,7 +299,7 @@ body {
 .imgRes {
   width: 14em;
   height: 14em;
-  border: 10px solid rgb(181,6,250);
+  border: 10px solid rgb(181, 6, 250);
   border-radius: 10% 50%;
 }
 
@@ -645,14 +645,14 @@ a:hover {
     padding: 0%;
   }
 
-  .imgResponsive  .imgRes {
+  .imgResponsive .imgRes {
     height: 200px;
     width: 200px;
   }
 }
 
-@media screen and (max-width: 500px){
-  .imgResponsive  .imgRes {
+@media screen and (max-width: 500px) {
+  .imgResponsive .imgRes {
     height: 200px;
     width: 200px;
   }
