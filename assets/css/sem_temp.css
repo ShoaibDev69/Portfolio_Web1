@@ -74,8 +74,9 @@ body {
   }
 }
 
-.sem_temp_shutters:before, .sem_temp_shutters:after {
-  content: '';
+.sem_temp_shutters:before,
+.sem_temp_shutters:after {
+  content: "";
   position: absolute;
   height: 100%;
   width: 100%;
@@ -176,7 +177,6 @@ body {
 }
 .sem_temp_slide:nth-child(3) {
   animation-delay: 10s;
-
 }
 
 .sem_temp_slide:nth-child(4) {
@@ -231,7 +231,7 @@ body {
   left: 50%;
   transform: translate3d(-50%, -50%, 0);
   color: white;
-  font-family: 'Abril Fatface', sans-serif;
+  font-family: "Abril Fatface", sans-serif;
   line-height: 0.8;
   letter-spacing: -0.025em;
   z-index: 2;
