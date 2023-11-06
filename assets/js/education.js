@@ -56,17 +56,20 @@ const moocscards = [
   {
     title: "Full Stack Web3 Development with JavaScript",
     cardImage: "assets/images/education-page/YouTube.svg",
-    moocLink: "https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=46s&pp=ygUTYmxvY2tjaGFpbiBCb290Y2FtcA%3D%3D",
+    moocLink:
+      "https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=46s&pp=ygUTYmxvY2tjaGFpbiBCb290Y2FtcA%3D%3D",
   },
   {
     title: "Blockchain Developer, Solidity, Foundry Full Course",
     cardImage: "assets/images/education-page/YouTube.svg",
-    moocLink: "https://youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42&si=3pFKDVbIbz_E93ol",
+    moocLink:
+      "https://youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42&si=3pFKDVbIbz_E93ol",
   },
   {
     title: "DeFi",
     cardImage: "assets/images/education-page/YouTube.svg",
-    moocLink: "https://youtube.com/playlist?list=PLgPmWS2dQHW9_Mo_5OC7Eyqi1FwKOJlb9&si=_QzhUsppRGM2SgPq",
+    moocLink:
+      "https://youtube.com/playlist?list=PLgPmWS2dQHW9_Mo_5OC7Eyqi1FwKOJlb9&si=_QzhUsppRGM2SgPq",
   },
 ];
 
