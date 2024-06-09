@@ -34,8 +34,8 @@ const projects = [
     cardImage: "assets/images/project-page/TaskMint.png",
     description: "A Decentralized Task Management System",
     // tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://task-mint.vercel.app/",
+    Githublink: "https://github.com/ShoaibDev69/TaskMint_Web3",
   },
 ];
 
