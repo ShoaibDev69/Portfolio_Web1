@@ -30,9 +30,9 @@ const projects = [
     Githublink: "https://github.com/ShoaibDev69/Pomodoro-Timer",
   },
   {
-    title: "Crowd Funding",
-    cardImage: "assets/images/project-page/exercise.jpg",
-    description: "Exercise tracker built using basic redux.",
+    title: "TaskMint",
+    cardImage: "assets/images/project-page/TaskMint.png",
+    description: "A Decentralized Task Management System",
     // tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
     Githublink: "",
